@@ -30,4 +30,8 @@ Run:
 ``` bash
 git clone https://github.com/papagorgio23/charge_off_model.git
 cd charge_off_model
+open charge_off_model.Rproj
 ```
+
+Open `app/index.Rmd`  
+Run Document
